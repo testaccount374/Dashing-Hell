@@ -7,13 +7,13 @@ public class HelloWorld : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // выводит текст в консоль юнити
+        // ГўГ»ГўГ®Г¤ГЁГІ ГІГҐГЄГ±ГІ Гў ГЄГ®Г­Г±Г®Г«Гј ГѕГ­ГЁГІГЁ
         print("Hello, World!");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        print("crickets");
     }
 }
